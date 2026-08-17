@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Backups e locks de CAD
+*.skb
+*~.skp
+*3dmbak
+*dwgbak
+*dxfbak
+*.rhl
+
+# Design kit: arquivo unico de ~700 MB, acima do limite de 100 MB do GitHub.
+# Mantido apenas local / OneDrive. Upstream distribui os kits zipados na branch "zips".
+SKYLARK150/Design kit/
